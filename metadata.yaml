@@ -1,0 +1,35 @@
+_repo: In-the-Land-of-Temples_40578
+_version: 0.1.0
+alternative_title: In the Land of Temples
+covers:
+- cover_type: archival
+  image_path: 40578-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+description: ''
+gutenberg_issued: '2012-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lithography, American'
+- !lcc 'NE'
+- !lcsh 'Temples -- Greece -- Pictorial works'
+- !lcc 'DF'
+- !lcsh 'Pennell, Joseph, 1857-1926'
+- !lcsh 'Temples in art'
+title: "Joseph Pennell's Pictures in the Land of Temples\r\nReproductions of a Series\
+  \ of Lithographs Made by Him in the Land of Temples, March-June 1913, Together with\
+  \ Impressions and Notes by the Artist."
+url: http://www.gutenberg.org/ebooks/40578
